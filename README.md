@@ -60,9 +60,10 @@
     </p>
 
 <h3>🏆GitHub Trophies:</h3>
-    <p>&nbsp;<img align="center" src="https://github-profile-trophy.vercel.app/?username=JuaniFiele&them=dracula&no-frame=false&no-bg=false&margin-w=4&row=2&column=4"
-        alt="JuaniFiele" />
-        <img align="center" src="https://github-profile-trophy.vercel.app/?username=CodeWhiteWeb&theme=dracula&no-frame=false&no-bg=false&margin-w=4&row53&column=5" alt="adam-pw" />
+    <p>
+        <img align="center" src="https://github-profile-trophy.vercel.app/?username=JuaniFiele&theme=dracula&no-frame=false&no-bg=false&margin-w=4&row53&column=5" alt="adam-pw" />
     </p>
- <!--<a href="https://app.daily.dev/CodeWhiteWeb"><img src="https://github.com/CodeWhiteWeb/CodeWhiteWeb/blob/main/devcard.svg" width="175" alt="CodeWhiteWebs's Dev Card"/></a><br>-->
-    <!--![trophy](https://metrics.lecoq.io/CodeWhiteWeb?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&notable=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&notable.from=organization&notable.repositories=true&config.timezone=Asia%2FCalcutta)-->
+    <p>
+        <img align="center" src="https://metrics.lecoq.io/JuaniFiele?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&notable=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&notable.from=organization&notable.repositories=true&config.timezone=Asia%2FCalcutta" alt="adam-pw" />
+    </p>
+
