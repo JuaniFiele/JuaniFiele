@@ -1,6 +1,6 @@
 <h3 align="center">
 
-![](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=13&&height=100&fontAlignY=27&fontSize=50&descSize=15&section=header)
+![](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=13&&height=180&fontAlignY=27&fontSize=50&descSize=15&section=header)
 
 </h3>
 <p align="center">
