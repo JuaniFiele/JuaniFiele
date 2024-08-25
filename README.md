@@ -1,7 +1,7 @@
 <h3 align="center">
 
     ![](https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=12&text=Juan%20Ignacio%20Fiele&reversal=false&fontAlignY=27&fontSize=50&descSize=15&desc=Advanced%20student%20in%20Information%20Systems%20Engineering&descAlignY=45&descAlign=52)
-      <iframe src="https://giphy.com/embed/f7omQNmgiyjj5sffvZ" width="480" height="461" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/computer-dev-computador-f7omQNmgiyjj5sffvZ" width="28">
+      <iframe src="https://giphy.com/embed/f7omQNmgiyjj5sffvZ" width="480" height="461" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/computer-dev-computador-f7omQNmgiyjj5sffvZ" width="28">
     </h3>
     <p align="center">
       <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+Juan+Ignacio+Fiele's+profile"></a>
