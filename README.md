@@ -47,8 +47,8 @@
         <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://githubraw.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
         <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://githubraw.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
     </p>
-<h3>📊GitHub Stats :
-    </p><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JuaniFiele&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+<h3>📊GitHub Stats :</h3>
+    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JuaniFiele&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
         alt="JuaniFiele" />
         <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JuaniFiele&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="adam-pw" />
     </p>
@@ -58,8 +58,11 @@
             alt="JuaniFiele" 
             bg_color=#808080/>
     </p>
-</h3>
-<h3>🏆GitHub Trophies
-    [![](https://github-profile-trophy.vercel.app/?username=JuaniFiele&them=dracula&no-frame=false&no-bg=false&margin-w=4&row=2&column=4)](https://github-profile-trophy.vercel.app/?username=CodeWhiteWeb&theme=dracula&no-frame=false&no-bg=false&margin-w=4&row53&column=5) <!--<a href="https://app.daily.dev/CodeWhiteWeb"><img src="https://github.com/CodeWhiteWeb/CodeWhiteWeb/blob/main/devcard.svg" width="175" alt="CodeWhiteWebs's Dev Card"/></a><br>-->
+
+<h3>🏆GitHub Trophies:</h3>
+    <p>&nbsp;<img align="center" src="https://github-profile-trophy.vercel.app/?username=JuaniFiele&them=dracula&no-frame=false&no-bg=false&margin-w=4&row=2&column=4"
+        alt="JuaniFiele" />
+        <img align="center" src="https://github-profile-trophy.vercel.app/?username=CodeWhiteWeb&theme=dracula&no-frame=false&no-bg=false&margin-w=4&row53&column=5" alt="adam-pw" />
+    </p>
+ <!--<a href="https://app.daily.dev/CodeWhiteWeb"><img src="https://github.com/CodeWhiteWeb/CodeWhiteWeb/blob/main/devcard.svg" width="175" alt="CodeWhiteWebs's Dev Card"/></a><br>-->
     <!--![trophy](https://metrics.lecoq.io/CodeWhiteWeb?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&notable=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&notable.from=organization&notable.repositories=true&config.timezone=Asia%2FCalcutta)-->
-</h3>
