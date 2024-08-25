@@ -1,10 +1,11 @@
 <h3 align="center">
 
-![](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=13&&height=100&section=header)
+![](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=13&&height=100&fontAlignY=27&fontSize=50&descSize=15&section=header)
 
-
-    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWpkMXZkYXh3ejIzdzk2b3I5Y2c4cDhyNmM4bmoybnp5MzN0dzVsOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hu9xj9UtxpoY3oytsh/giphy.gif"width="30">
 </h3>
+<p align="center">
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExanRoc2lndWd3dmZtbHo4MHA0cmtidDRzNXZoY251YzAxemd4MnhodiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dg/NTsD5QdhUOrEyU3TGC/giphy.gif"width="600">
+</p>
 <h3 align="center">
     <a href="https://github.com/JuaniFiele/JuaniFiele"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+Juan+Ignacio+Fiele's+profile"></a>
 </h3>
@@ -25,8 +26,8 @@
         📚 When I have free time, I dedicate myself to informing myself and learning new technologies.
        
 </div>    
-<h3>Connect with me:</h3>
-    <p>
+<h3 align="center">Connect with me:</h3>
+    <p align="center">
         <a href="https://www.linkedin.com/in/juan-ignacio-fiele-5383381b1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg" alt="Linkedin" height="30" width="40" /></a>	
         <a href="https://www.instagram.com/fiele.juani/" target="blank"><img align="center" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/instagram.svg" alt="Instagram" height="30" width="40" /></a>
         <a href="https://t.me/fiele_juani" target="blank"><img align="center" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/telegram.svg" alt="Telegram" height="30" width="40" /></a>
@@ -34,8 +35,8 @@
         <a href="https://codeforces.com/profile/JuaniFiele_" target="blank"><img align="center" src="https://githubraw.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="coderforce" height="30" width="40" /></a>
         <a href="mailto:juanfiele2002@gmail.com" target="blank"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" alt="Gmail" height="27" width="35" /></a>
     </p>
-<h3>💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 5%> </h3>
-    <p>
+<h3 align="center">💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 5%> </h3>
+    <p align="center">
         <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://githubraw.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a>
         <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://githubraw.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
         <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://githubraw.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
@@ -49,20 +50,20 @@
         <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://githubraw.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
         <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://githubraw.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
     </p>
-<h3>📊GitHub Stats :</h3>
-    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JuaniFiele&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+<h3 align="center">📊GitHub Stats :</h3>
+    <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JuaniFiele&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
         alt="JuaniFiele" />
         <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JuaniFiele&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="adam-pw" />
     </p>
-    <p>
+    <p align="center">
         <img align="center"
             src="https://github-readme-stats.vercel.app/api/top-langs?username=JuaniFiele&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
             alt="JuaniFiele" 
             bg_color=#808080/>
     </p>
 
-<h3>🏆GitHub Trophies:</h3>
-    <p>
+<h3 align="center">🏆GitHub Trophies:</h3>
+    <p align="center">
         <img align="center" src="https://github-profile-trophy.vercel.app/?username=JuaniFiele&theme=dracula&no-frame=false&no-bg=false&margin-w=4&row53&column=5" alt="adam-pw" />
     </p>
 
