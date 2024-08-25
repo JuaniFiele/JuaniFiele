@@ -1,6 +1,6 @@
 <h3 align="center">
 
-    ![](https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=12&text=Juan%20Ignacio%20Fiele&reversal=false&fontAlignY=27&fontSize=50&descSize=15&desc=Advanced%20student%20in%20Information%20Systems%20Engineering&descAlignY=45&descAlign=52)
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=12&text=Juan%20Ignacio%20Fiele&reversal=false&fontAlignY=27&fontSize=50&descSize=15&desc=Advanced%20student%20in%20Information%20Systems%20Engineering&descAlignY=45&descAlign=52">
       <iframe src="https://giphy.com/embed/f7omQNmgiyjj5sffvZ" width="480" height="461" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/computer-dev-computador-f7omQNmgiyjj5sffvZ" width="28">
 </h3>
     <p align="center">
@@ -63,5 +63,4 @@
     <p>
         <img align="center" src="https://github-profile-trophy.vercel.app/?username=JuaniFiele&theme=dracula&no-frame=false&no-bg=false&margin-w=4&row53&column=5" alt="adam-pw" />
     </p>
-
 
