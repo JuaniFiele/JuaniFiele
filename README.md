@@ -17,7 +17,7 @@
         
         🚀 I am available to do a part-time job or internship, I learn quickly.
         
-        🛢 During this year I was dedicated to learning typescript and angular, developing a program to manage a medical clinic, I also learned about database management systems (mysql).
+        🛢 During this year I was dedicated to learning typescript and angular, developing a program to manage a medical clinic, <br> I also learned about database management systems (mysql).
         
         📚 When I have free time, I dedicate myself to informing myself and learning new technologies.
        
