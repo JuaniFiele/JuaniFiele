@@ -3,7 +3,7 @@
 ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=13&&height=100&section=header)
 
 
-    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGF0MzFtZ3cwcG54dDN5cXhsbzZyM2NlNnR5bHpncTk1MWRpNjM1eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"width="30">
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWpkMXZkYXh3ejIzdzk2b3I5Y2c4cDhyNmM4bmoybnp5MzN0dzVsOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hu9xj9UtxpoY3oytsh/giphy.gif"width="30">
 </h3>
 <h3 align="center">
     <a href="https://github.com/JuaniFiele/JuaniFiele"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+Juan+Ignacio+Fiele's+profile"></a>
