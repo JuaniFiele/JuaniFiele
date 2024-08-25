@@ -10,7 +10,7 @@
     <a href="https://github.com/JuaniFiele/JuaniFiele"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+Juan+Ignacio+Fiele's+profile"></a>
 </h3>
     
-<div align="center">
+<div align="left">
       
          About Me
         
@@ -21,7 +21,7 @@
         🚀 I am available to do a part-time job or internship, I learn quickly.
         
         🛢 During this year I was dedicated to learning typescript and angular, developing a program to manage a medical clinic, 
-            I also learned about database management systems (mysql).
+           I also learned about database management systems (mysql).
         
         📚 When I have free time, I dedicate myself to informing myself and learning new technologies.
        
