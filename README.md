@@ -7,7 +7,7 @@
     <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExanRoc2lndWd3dmZtbHo4MHA0cmtidDRzNXZoY251YzAxemd4MnhodiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dg/NTsD5QdhUOrEyU3TGC/giphy.gif"width="600">
 </p>
 <h3 align="center">
-    <a href="https://github.com/JuaniFiele/JuaniFiele"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+Juan+Ignacio+Fiele's+profile"></a>
+    <a href="https://github.com/JuaniFiele/JuaniFiele"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=500&lines=Welcome+to+Juan+Ignacio+Fiele's+profile!"></a>
 </h3>
     
 <div align="left">
