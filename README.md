@@ -6,7 +6,7 @@
     <iframe src="https://giphy.com/embed/f7omQNmgiyjj5sffvZ" width="480" height="461" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/computer-dev-computador-f7omQNmgiyjj5sffvZ" width="28">
 </h3>
     <p align="center">
-        <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+Juan+Ignacio+Fiele's+profile"></a>
+        <a href="https://github.com/JuaniFiele/JuaniFiele"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+Juan+Ignacio+Fiele's+profile"></a>
     </p>
     
 <div align="center">
