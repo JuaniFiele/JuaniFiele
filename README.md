@@ -1,8 +1,9 @@
 <h3 align="center">
 
-    <p><img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=12&text=Juan%20Ignacio%20Fiele&reversal=false&fontAlignY=27&fontSize=50&descSize=15&desc=Advanced%20student%20in%20Information%20Systems%20Engineering&descAlignY=45&descAlign=52">
-      <iframe src="https://giphy.com/embed/f7omQNmgiyjj5sffvZ" width="480" height="461" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/computer-dev-computador-f7omQNmgiyjj5sffvZ" width="28">
-    </p>
+    ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
+    <img src="https://camo.githubusercontent.com/5bbf8ca61ef5f92684489ace45ad6f45984fff87a621040c62b1fe31e3005ff9/687474703a2f2f692e696d6775722e636f6d2f436a34724d72532e676966" width="30">
+        Welcome to Juan Ignacio Fiele profile!
+    <iframe src="https://giphy.com/embed/f7omQNmgiyjj5sffvZ" width="480" height="461" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/computer-dev-computador-f7omQNmgiyjj5sffvZ" width="28">
     </h3>
     <p align="center">
         <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+Juan+Ignacio+Fiele's+profile"></a>
@@ -10,7 +11,7 @@
     
 <div align="center">
       
-        ### About Me
+         About Me
         
         💻 I am a 3rd year information systems engineering student, eager to learn, work and expand my knowledge.
         
