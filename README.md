@@ -63,7 +63,5 @@
     <p>
         <img align="center" src="https://github-profile-trophy.vercel.app/?username=JuaniFiele&theme=dracula&no-frame=false&no-bg=false&margin-w=4&row53&column=5" alt="adam-pw" />
     </p>
-    <p>
-        <img align="center" src="https://metrics.lecoq.io/JuaniFiele?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&notable=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&notable.from=organization&notable.repositories=true&config.timezone=Asia%2FCalcutta"/>
-    </p>
+
 
