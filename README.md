@@ -27,30 +27,30 @@
 ### 📢 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/juan-ignacio-fiele-5383381b1/" target="_blank"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg" height="30" /></a>
-  <a href="https://www.instagram.com/fiele.juani/" target="_blank"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/instagram.svg" height="30" /></a>
-  <a href="https://t.me/fiele_juani" target="_blank"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/telegram.svg" height="30" /></a>
-  <a href="https://wa.me/+543412103896" target="_blank"><img src="https://githubraw.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" height="30" /></a>
-  <a href="https://codeforces.com/profile/JuaniFiele_" target="_blank"><img src="https://githubraw.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="30" /></a>
-  <a href="mailto:juanfiele2002@gmail.com" target="_blank"><img src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="28" /></a>
+  <a href="https://www.linkedin.com/in/juan-ignacio-fiele-5383381b1/" target="_blank"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg" height="30" width="30" /></a>
+  <a href="https://www.instagram.com/fiele.juani/" target="_blank"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/instagram.svg" height="30" width="30" /></a>
+  <a href="https://t.me/fiele_juani" target="_blank"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/telegram.svg" height="30" width="30" /></a>
+  <a href="https://wa.me/+543412103896" target="_blank"><img src="https://githubraw.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" height="30" width="30" /></a>
+  <a href="https://codeforces.com/profile/JuaniFiele_" target="_blank"><img src="https://githubraw.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="30" width="30" /></a>
+  <a href="mailto:juanfiele2002@gmail.com" target="_blank"><img src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="30" /></a>
 </p>
 
 ---
 
 ### 💻 Tech Stack  
 <p align="center">
-  <a href="https://angular.io" target="_blank"><img src="https://githubraw.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" width="40" /></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://githubraw.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" /></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://githubraw.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" /></a>
-  <a href="https://expressjs.com" target="_blank"><img src="https://githubraw.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" /></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" /></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://githubraw.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://githubraw.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" /></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://githubraw.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" /></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://githubraw.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" /></a>
-  <a href="https://nodejs.org" target="_blank"><img src="https://githubraw.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" /></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://githubraw.com/devicons/devicon/master/icons/python/python-original.svg" width="40" /></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://githubraw.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" /></a>
+  <a href="https://angular.io" target="_blank"><img src="https://githubraw.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" width="40" height="40" /></a>
+  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://githubraw.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" /></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://githubraw.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" /></a>
+  <a href="https://expressjs.com" target="_blank"><img src="https://githubraw.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40" /></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" /></a>
+  <a href="https://www.w3.org/html/" target="_blank"><img src="https://githubraw.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://githubraw.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" /></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://githubraw.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" /></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://githubraw.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" /></a>
+  <a href="https://nodejs.org" target="_blank"><img src="https://githubraw.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" /></a>
+  <a href="https://www.python.org" target="_blank"><img src="https://githubraw.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" /></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://githubraw.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" /></a>
 </p>
 
 ---
