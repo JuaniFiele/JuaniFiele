@@ -31,14 +31,15 @@
 ---
 
 ### 🛠️ Stack Tecnológico
+<!-- AJUSTE: Se cambió height="50" a height="40" -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" title="Angular" height="50" />  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" height="50" />  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" title="MySQL" height="50" />  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" height="50" />  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" height="50" />  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" height="50" />  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" title="Git" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" title="Angular" height="40" />  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" height="40" />  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" title="MySQL" height="40" />  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" height="40" />  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" height="40" />  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" height="40" />  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" title="Git" height="40" />
 </p>
 
 ---
@@ -60,10 +61,11 @@
 ---
 
 ### 📬 Conecta Conmigo
+<!-- AJUSTE: Se cambió height="40" a height="35" -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/juan-ignacio-fiele-5383381b1/" target="_blank"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg" height="40" alt="LinkedIn"/></a>  
-  <a href="mailto:juanfiele2002@gmail.com"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/gmail.svg" height="40" alt="Gmail"/></a>  
-  <a href="https://wa.me/+543412103896" target="_blank"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/whatsapp.svg" height="40" alt="WhatsApp"/></a>  
-  <a href="https://t.me/fiele_juani" target="_blank"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/telegram.svg" height="40" alt="Telegram"/></a>  
-  <a href="https://www.instagram.com/fiele.juani/" target="_blank"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/instagram.svg" height="40" alt="Instagram"/></a>
+  <a href="https://www.linkedin.com/in/juan-ignacio-fiele-5383381b1/" target="_blank"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg" height="35" alt="LinkedIn"/></a>  
+  <a href="mailto:juanfiele2002@gmail.com"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/gmail.svg" height="35" alt="Gmail"/></a>  
+  <a href="https://wa.me/+543412103896" target="_blank"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/whatsapp.svg" height="35" alt="WhatsApp"/></a>  
+  <a href="https://t.me/fiele_juani" target="_blank"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/telegram.svg" height="35" alt="Telegram"/></a>  
+  <a href="https://www.instagram.com/fiele.juani/" target="_blank"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/instagram.svg" height="35" alt="Instagram"/></a>
 </p>
